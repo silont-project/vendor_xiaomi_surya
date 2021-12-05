@@ -903,6 +903,7 @@ PRODUCT_PACKAGES += \
     TimeService \
     adreno_graphics_driver \
     gpu_profiling_vulkan_layer \
+    com.qualcomm.qti.gpudrivers.sm6150.api30.apk \
     PowerOffAlarm \
     QtiTelephonyService \
     WfdService \
